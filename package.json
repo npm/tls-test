@@ -1,6 +1,6 @@
 {
   "name": "tls-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A package to test TLS 1.2 compliance with your package manager",
   "main": "index.js",
   "scripts": {
